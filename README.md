@@ -1,2 +1,2 @@
-# codeficomodulo5semana2
+# codeficomodulo5semana3
 Resolução de exercícios com JavaScript
