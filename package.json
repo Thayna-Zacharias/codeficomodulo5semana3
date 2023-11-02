@@ -1,0 +1,10 @@
+{
+  "name": "codeficomodulo5semana3",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
